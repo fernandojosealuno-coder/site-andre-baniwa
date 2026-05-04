@@ -1,21 +1,12 @@
-import HeroSection from './components/HeroSection';
-import BookSection from './components/BookSection';
-import AboutSection from './components/AboutSection';
-import TestimonialSection from './components/TestimonialSection';
-import WorkSection from './components/WorkSection';
-import CTASection from './components/CTASection';
-import ContactSection from './components/ContactSection';
+import { Routes, Route } from "react-router-dom";
+import Home from "./Home";
+import Compras from "./pages/Compras";
 
 export default function App() {
   return (
-    <div className="min-h-screen">
-      <HeroSection />
-      <BookSection />
-      <AboutSection />
-      <TestimonialSection />
-      <WorkSection />
-      <CTASection />
-      <ContactSection />
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/comprar" element={<Compras />} />
+    </Routes>
   );
 }
