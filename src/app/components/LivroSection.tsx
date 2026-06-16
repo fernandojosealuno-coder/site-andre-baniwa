@@ -137,7 +137,7 @@ export default function BookSection() {
               <div className="flex flex-col sm:flex-row gap-4">
                 {/* Ebook */}
                 <a
-                  href="COLE_AQUI_LINK_KIWIFY"
+                  href="https://pay.kiwify.com.br/pSHVtkC"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 bg-[#065F46] text-white px-8 py-5 rounded-2xl text-center hover:scale-105 transition shadow-xl"

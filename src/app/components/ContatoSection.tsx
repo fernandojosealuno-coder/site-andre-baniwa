@@ -84,7 +84,7 @@ export default function ContactSection() {
               <div className="min-w-0">
                 <p className="text-sm text-gray-300">Email</p>
                 <p className="text-base sm:text-lg break-all">
-                  contato@andrebaniwa.com.br
+                  andrebaniwa@gmail.com
                 </p>
               </div>
             </div>
@@ -97,7 +97,7 @@ export default function ContactSection() {
 
               <div className="min-w-0">
                 <p className="text-sm text-gray-300">Telefone</p>
-                <p className="text-base sm:text-lg">+55 (61) 99177-9096</p>
+                <p className="text-base sm:text-lg">(61) 99177-9096</p>
               </div>
             </div>
           </div>

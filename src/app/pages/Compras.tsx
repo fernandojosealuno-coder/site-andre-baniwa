@@ -50,7 +50,7 @@ export default function Compras() {
             </div>
 
             <a
-              href="COLE_AQUI_LINK_KIWIFY"
+              href="https://pay.kiwify.com.br/pSHVtkC"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 w-full bg-[#065F46] text-white py-4 px-4 rounded-2xl hover:bg-[#064E3B] transition shadow-xl text-sm sm:text-base font-semibold"
